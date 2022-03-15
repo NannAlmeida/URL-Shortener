@@ -1,0 +1,1 @@
+export { default as ShortenerController } from './shortenerController';
